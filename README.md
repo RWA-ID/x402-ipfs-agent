@@ -4,7 +4,7 @@ Agent-native IPFS storage as a paid machine-to-machine service. Upload files and
 
 Registered as an [ERC-8004](https://ethereum-magicians.org/t/erc-8004-native-agent-registry/22738) agent at **ipfs.x-402.eth**.
 
-[View on 8004scan](https://8004scan.vercel.app/agent/ipfs.x-402.eth)
+[View on 8004scan](https://8004scan.io/agent/base/17093))
 
 ## Endpoints
 
