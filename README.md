@@ -37,19 +37,24 @@ Client                          Agent
 
 - **Express** — HTTP server
 - **x402-express** — Payment middleware enforcing USDC micropayments on Base
-- **Pinata SDK** — IPFS file upload and JSON pinning
+- **Pinata API JWT** — IPFS file upload and JSON pinning
 - **multer** — Multipart file handling for `/upload`
 
-## Setup
+## Setup Hosted
 
-```bash
-git clone https://github.com/RWA-ID/x402-ipfs-agent.git
-cd x402-ipfs-agent
-npm install
-cp .env.example .env
-# Fill in your Pinata JWT and USDC receiving address
-npm start
-```
+Production API is hosted on Replit: https://x-402.replit.app
+
+Docs are hosted via ENS/IPFS: https://x-402.eth.link
+
+ERC-8004 Agent: https://8004scan.io/agent/base/17093
+
+This repo contains docs + ERC-8004 metadata (no backend source yet)
+
+Network: Base mainnet
+
+Asset: USDC
+
+Pricing endpoint: /pricing
 
 ### Environment Variables
 
