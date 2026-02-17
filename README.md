@@ -5,7 +5,7 @@ Agent-native IPFS storage as a paid machine-to-machine service. Upload files and
 Registered as an [ERC-8004](https://eips.ethereum.org/EIPS/eip-8004) agent at **ipfs.x-402.eth**.
 
 - Docs (ENS/IPFS): https://x-402.eth.link
-- Agent card: https://8004scan.io/agent/base/17093
+- Agent card: https://8004scan.io/agents/base/17093
 
 ## Endpoints
 
