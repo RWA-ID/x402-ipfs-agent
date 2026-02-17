@@ -2,9 +2,10 @@
 
 Agent-native IPFS storage as a paid machine-to-machine service. Upload files and pin JSON to IPFS via [Pinata](https://pinata.cloud), gated by [x402](https://www.x402.org/) micropayments in USDC on Base mainnet.
 
-Registered as an [ERC-8004](https://ethereum-magicians.org/t/erc-8004-native-agent-registry/22738) agent at **ipfs.x-402.eth**.
+Registered as an [ERC-8004](https://eips.ethereum.org/EIPS/eip-8004) agent at **ipfs.x-402.eth**.
 
-[View on 8004scan](https://8004scan.io/agent/base/17093))
+- Docs (ENS/IPFS): https://x-402.eth.link
+- Agent card: https://8004scan.io/agent/base/17093
 
 ## Endpoints
 
